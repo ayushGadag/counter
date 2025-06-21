@@ -19,3 +19,4 @@ decreasebtn.onclick = function () {
     count--;
     countlabel.textContent = count;
 }
+// this is fist code 
